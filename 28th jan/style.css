@@ -1,0 +1,8 @@
+li{
+    width: 300px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+}
